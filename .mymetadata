@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ccy"
+  id="myeclipse.1504250257177"
+  context-root="/ccy"
+  j2ee-spec="6.0"
+  archive="ccy.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
