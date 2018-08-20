@@ -21,7 +21,7 @@ public class ccyTest {
 	 */
 	@RequestMapping(value="/")//是springmvc中的注解
     String home(){
-        return "helloworld";
+        return "ccy，hello";
     }
     
     public static void main(String[] args) throws Exception {
